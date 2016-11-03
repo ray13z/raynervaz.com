@@ -3,6 +3,12 @@ raynervaz.com
 
 Me on the internet
 
+## Instructions 
+
+1. Clone this repo.  
+2. Update branch 'raynervaz.in'.
+3. Push changes.
+
 ### Minimal Theme
 
 [Demo the Theme](http://orderedlist.github.com/minimal/)
