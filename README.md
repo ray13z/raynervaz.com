@@ -6,7 +6,7 @@ Me on the internet
 ## Instructions 
 
 1. Clone this repo.  
-2. Update branch 'raynervaz.in'.
+2. Update branch 'gh-pages'.
 3. Push changes.
 
 ### Minimal Theme
